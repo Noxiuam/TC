@@ -1,0 +1,13 @@
+#Global
+.idea
+
+#Client
+Client/*.iml
+Client/target
+
+#Server
+Server/*.iml
+Server/target
+
+#Testing module for future security testing.
+Testing/*
